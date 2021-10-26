@@ -1,0 +1,80 @@
+h1 {
+  text-align: center;
+  color: #1a64d6;
+  font-size: 34px;
+  line-height: 48px;
+  margin: 0;
+  display: block;
+}
+h2 {
+  font-size: 34px;
+  line-height: 48px;
+  font-weight: 200;
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  display: block;
+}
+h3 {
+  display: block;
+  font-size: 25px;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+}
+button {
+  display: block;
+  margin: 20px auto;
+  border: 1px solid #1a64d6;
+  background: #1a64d6;
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 16px 24px;
+  border-radius: 30px;
+  transition: all 200ms ease;
+  box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
+  cursor: pointer;
+}
+ul {
+  text-decoration: none;
+  display: block;
+  list-style-type: none;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  text-align: center;
+}
+li {
+  text-decoration: none;
+  display: block;
+  padding: 10px 0;
+}
+
+small {
+  font-size: 20px;
+  display: block;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  opacity: 0.7;
+  text-align: center;
+  font-family: monospace;
+}
+.name {
+  font-family: "Fleur De Leah", cursive;
+  font-size: 23px;
+}
+.currently {
+  text-align: center;
+}
+button:hover {
+  background: white;
+  color: #1a64d6;
+  border: 1px solid #1a64d6;
+}
